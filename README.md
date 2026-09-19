@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (63편)
+## 글 목록 (65편)
 
+- [갤럭시핏3 배터리 13일과 3.5일, 어느 쪽이 내 사용법인가](https://m.blog.naver.com/zova/224415491613) · 2026-09-18
+- [삼성 공기청정기 필터 CFX-F100D 삼성닷컴에 구매 버튼이 없을 때](https://m.blog.naver.com/zova/224415499551) · 2026-09-18
 - [청년월세지원 2026 결과가 부적격이면 어디에 물어야 하나](https://m.blog.naver.com/zova/224414683917) · 2026-09-17
 - [닌자 에어프라이어 크리스피와 에어그릴, 갈림길은 조리 방식](https://m.blog.naver.com/zova/224414687084) · 2026-09-17
 - [출생신고서 열람 팩스 수령까지, 법원 민원실 준비물 2026년 9월](https://m.blog.naver.com/zova/224414694939) · 2026-09-17
