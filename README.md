@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (93편)
+## 글 목록 (95편)
 
+- [LG트롬건조기 RD20ENEF, 구성 3가지와 건조기 10kg급 차이](https://m.blog.naver.com/zova/224421936816) · 2026-09-24
 - [전입세대 열람내역서 발급, 계약서 없이 가면 돌아옵니다](https://m.blog.naver.com/zova/224419258255) · 2026-09-22
+- [삼성건조기21kg BV와 BW 차이, 색상 말고 무엇이 갈리나](https://m.blog.naver.com/zova/224419285895) · 2026-09-22
 - [밧드야 분리수거함 품절일 때, 11월 공구까지 기다리는 기준](https://m.blog.naver.com/zova/224418135597) · 2026-09-21
 - [2027년 주거급여 금액, 작년에 탈락했어도 다시 계산할 때](https://m.blog.naver.com/zova/224418138859) · 2026-09-21
 - [분리수거 트롤리 45L과 60L, 우리 집은 어디가 맞나](https://m.blog.naver.com/zova/224418140736) · 2026-09-21
