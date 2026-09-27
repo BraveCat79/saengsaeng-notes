@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (103편)
+## 글 목록 (105편)
 
 - [로지텍 MX Master 3S와 3, 클릭음과 센서에서 갈립니다](https://m.blog.naver.com/zova/224422773808) · 2026-09-26
+- [LG코드제로청소기 A9와 A7, 흡입력과 물걸레에서 갈립니다](https://m.blog.naver.com/zova/224422788820) · 2026-09-26
+- [추석 쓰레기 배출, 서울 사는 집이라면 9월 27일이 기준](https://m.blog.naver.com/zova/224423269327) · 2026-09-26
 - [LG 드럼세탁기 25kg 들이는 집이라면 건조기 20kg까지](https://m.blog.naver.com/zova/224422589466) · 2026-09-25
 - [LG 건조기 20kg, 직렬키트 미포함 상품이면 이것부터](https://m.blog.naver.com/zova/224422592132) · 2026-09-25
 - [귤껍질 분리수거 헷갈리는 세 가지 경우, 상자까지 한 번에](https://m.blog.naver.com/zova/224422596471) · 2026-09-25
