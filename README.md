@@ -5,10 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (110편)
+## 글 목록 (113편)
 
+- [가습기추천, 가열 살균 3종은 세척에서 갈립니다](https://m.blog.naver.com/zova/224424268128) · 2026-09-28
 - [삼성 김치냉장고 3도어 328L, 상칸 김치통도 들어 있나요](https://m.blog.naver.com/zova/224423479587) · 2026-09-27
 - [삼성 김치냉장고 4도어와 3도어, 결국 용량에서 갈립니다](https://m.blog.naver.com/zova/224424014107) · 2026-09-27
+- [보냉백 분리수거, 새벽배송이 잦은 집이면 은박부터 보세요](https://m.blog.naver.com/zova/224424015666) · 2026-09-27
+- [KBS 방청신청 6단계, 당첨 뒤 좌석지정에서 갈립니다](https://m.blog.naver.com/zova/224424017631) · 2026-09-27
 - [로지텍 MX Master 3S와 3, 클릭음과 센서에서 갈립니다](https://m.blog.naver.com/zova/224422773808) · 2026-09-26
 - [LG코드제로청소기 A9와 A7, 흡입력과 물걸레에서 갈립니다](https://m.blog.naver.com/zova/224422788820) · 2026-09-26
 - [추석 쓰레기 배출, 서울 사는 집이라면 9월 27일이 기준](https://m.blog.naver.com/zova/224423269327) · 2026-09-26
