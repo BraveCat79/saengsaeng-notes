@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (113편)
+## 글 목록 (115편)
 
 - [가습기추천, 가열 살균 3종은 세척에서 갈립니다](https://m.blog.naver.com/zova/224424268128) · 2026-09-28
+- [침대 매트리스 추천, 바닥에도 깔 1인용이라면 이 두 제품](https://m.blog.naver.com/zova/224424284844) · 2026-09-28
+- [재산 상속 순위와 법정상속분, 배우자 5할 가산에서 갈립니다](https://m.blog.naver.com/zova/224425093138) · 2026-09-28
 - [삼성 김치냉장고 3도어 328L, 상칸 김치통도 들어 있나요](https://m.blog.naver.com/zova/224423479587) · 2026-09-27
 - [삼성 김치냉장고 4도어와 3도어, 결국 용량에서 갈립니다](https://m.blog.naver.com/zova/224424014107) · 2026-09-27
 - [보냉백 분리수거, 새벽배송이 잦은 집이면 은박부터 보세요](https://m.blog.naver.com/zova/224424015666) · 2026-09-27
