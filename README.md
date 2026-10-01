@@ -5,10 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (123편)
+## 글 목록 (125편)
 
 - [삼천리도시가스 요금납부, 연체료 전에 볼 납부기한과 번호](https://m.blog.naver.com/zova/224426724649) · 2026-09-30
 - [증여세 신고방법 놓치면 무신고 가산세 20%, 홈택스 순서](https://m.blog.naver.com/zova/224426728120) · 2026-09-30
+- [주택 재산세 계산기, 공시가격 9억 이하 1주택이라면 세율이 달라집니다](https://m.blog.naver.com/zova/224426730610) · 2026-09-30
+- [커피머신추천, 원두 갈아 마실 집이면 전자동이어야 하나요](https://m.blog.naver.com/zova/224427386911) · 2026-09-30
 - [청소기 추천, 차이슨과 자동 먼지비움은 여기서 갈립니다](https://m.blog.naver.com/zova/224426247352) · 2026-09-29
 - [티머니 잔액 환불, 편의점과 ATM은 한도에서 갈립니다](https://m.blog.naver.com/zova/224426253403) · 2026-09-29
 - [가습기추천, 가열 살균 3종은 세척에서 갈립니다](https://m.blog.naver.com/zova/224424268128) · 2026-09-28
