@@ -5,9 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (135편)
+## 글 목록 (138편)
 
+- [개천절 택배 연휴, 10월 5일까지 반품 수거 되나요](https://m.blog.naver.com/zova/224430186754) · 2026-10-03
 - [삼성 식기세척기 6인용, 열풍건조 모델과 갈리는 2가지](https://m.blog.naver.com/zova/224429676588) · 2026-10-02
+- [부모 자식 차용증, 무이자라면 상환 기록이 먼저입니다](https://m.blog.naver.com/zova/224429679305) · 2026-10-02
+- [3기 신도시 위치, GTX 노선 따라 지구가 갈립니다](https://m.blog.naver.com/zova/224429681641) · 2026-10-02
 - [삼성인덕션, 옮겨 쓸 집이라면 2구 더플레이트부터 보세요](https://m.blog.naver.com/zova/224427691037) · 2026-10-01
 - [해피콜 프라이팬 2P와 3P, 결국 구성에서 갈립니다](https://m.blog.naver.com/zova/224428564979) · 2026-10-01
 - [서울 지하철 요금, 1회용 카드라면 청소년 할인이 빠집니다](https://m.blog.naver.com/zova/224428567659) · 2026-10-01
