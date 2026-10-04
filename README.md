@@ -5,11 +5,14 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (140편)
+## 글 목록 (143편)
 
 - [개천절 택배 연휴, 10월 5일까지 반품 수거 되나요](https://m.blog.naver.com/zova/224430186754) · 2026-10-03
 - [보이스피싱 종류 중 링크 달린 문자라면 1394 제보부터](https://m.blog.naver.com/zova/224430188962) · 2026-10-03
 - [전자레인지 선반 중형 1단, 큰 옵션까지 봐야 하나요](https://m.blog.naver.com/zova/224430483975) · 2026-10-03
+- [제천 지역화폐 카드와 앱, 쓸 곳 수에서 갈립니다](https://m.blog.naver.com/zova/224430486283) · 2026-10-03
+- [일본 얼룩제거제 시미토리, 커피 얼룩도 지워지나요](https://m.blog.naver.com/zova/224430488227) · 2026-10-03
+- [과태료 범칙금 차이와 과태료 납부, 이파인과 위택스 나누는 법](https://m.blog.naver.com/zova/224430656236) · 2026-10-03
 - [삼성 식기세척기 6인용, 열풍건조 모델과 갈리는 2가지](https://m.blog.naver.com/zova/224429676588) · 2026-10-02
 - [부모 자식 차용증, 무이자라면 상환 기록이 먼저입니다](https://m.blog.naver.com/zova/224429679305) · 2026-10-02
 - [3기 신도시 위치, GTX 노선 따라 지구가 갈립니다](https://m.blog.naver.com/zova/224429681641) · 2026-10-02
