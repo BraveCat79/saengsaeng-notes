@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (143편)
+## 글 목록 (145편)
 
+- [빨래 쉰내 제거, 과탄산소다는 40도 물에 30분](https://m.blog.naver.com/zova/224430723794) · 2026-10-04
+- [암웨이 치약 200g과 국산 펌핑형 285g, 불소치약까지 비교](https://m.blog.naver.com/zova/224431266384) · 2026-10-04
 - [개천절 택배 연휴, 10월 5일까지 반품 수거 되나요](https://m.blog.naver.com/zova/224430186754) · 2026-10-03
 - [보이스피싱 종류 중 링크 달린 문자라면 1394 제보부터](https://m.blog.naver.com/zova/224430188962) · 2026-10-03
 - [전자레인지 선반 중형 1단, 큰 옵션까지 봐야 하나요](https://m.blog.naver.com/zova/224430483975) · 2026-10-03
