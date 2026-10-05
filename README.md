@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (145편)
+## 글 목록 (146편)
 
+- [올림픽 금메달 연금 점수, 아시안게임 금은 10점뿐](https://m.blog.naver.com/zova/224432066062) · 2026-10-05
 - [빨래 쉰내 제거, 과탄산소다는 40도 물에 30분](https://m.blog.naver.com/zova/224430723794) · 2026-10-04
 - [암웨이 치약 200g과 국산 펌핑형 285g, 불소치약까지 비교](https://m.blog.naver.com/zova/224431266384) · 2026-10-04
 - [개천절 택배 연휴, 10월 5일까지 반품 수거 되나요](https://m.blog.naver.com/zova/224430186754) · 2026-10-03
