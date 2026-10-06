@@ -5,11 +5,14 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (148편)
+## 글 목록 (151편)
 
+- [GS25 한정선 2탄, 예약 놓치면 10월 15일 매장 판매부터](https://m.blog.naver.com/zova/224432397619) · 2026-10-06
 - [한정선 요거트 찹쌀떡 GS25, 녹았다가 다시 얼려도 되나요](https://m.blog.naver.com/zova/224432024310) · 2026-10-05
 - [올림픽 금메달 연금 점수, 아시안게임 금은 10점뿐](https://m.blog.naver.com/zova/224432066062) · 2026-10-05
 - [루메나 가습기 1L 무선, 침실 머리맡에 둬도 되나요](https://m.blog.naver.com/zova/224432137282) · 2026-10-05
+- [전국 10월 축제 일정, 주말 하루뿐이라면 10일 토요일](https://m.blog.naver.com/zova/224432334360) · 2026-10-05
+- [영월 붉은메밀축제 10월 11일까지, 가기 전 확인 순서](https://m.blog.naver.com/zova/224432337461) · 2026-10-05
 - [빨래 쉰내 제거, 과탄산소다는 40도 물에 30분](https://m.blog.naver.com/zova/224430723794) · 2026-10-04
 - [암웨이 치약 200g과 국산 펌핑형 285g, 불소치약까지 비교](https://m.blog.naver.com/zova/224431266384) · 2026-10-04
 - [개천절 택배 연휴, 10월 5일까지 반품 수거 되나요](https://m.blog.naver.com/zova/224430186754) · 2026-10-03
