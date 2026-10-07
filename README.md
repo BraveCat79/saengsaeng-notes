@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (151편)
+## 글 목록 (153편)
 
 - [GS25 한정선 2탄, 예약 놓치면 10월 15일 매장 판매부터](https://m.blog.naver.com/zova/224432397619) · 2026-10-06
+- [독감 예방접종 무료 대상자, 9세 미만이면 2회인지부터](https://m.blog.naver.com/zova/224432453506) · 2026-10-06
+- [써모스 보온도시락 TKLH-1500, 조지루시와 갈리는 두 가지](https://m.blog.naver.com/zova/224433269672) · 2026-10-06
 - [한정선 요거트 찹쌀떡 GS25, 녹았다가 다시 얼려도 되나요](https://m.blog.naver.com/zova/224432024310) · 2026-10-05
 - [올림픽 금메달 연금 점수, 아시안게임 금은 10점뿐](https://m.blog.naver.com/zova/224432066062) · 2026-10-05
 - [루메나 가습기 1L 무선, 침실 머리맡에 둬도 되나요](https://m.blog.naver.com/zova/224432137282) · 2026-10-05
