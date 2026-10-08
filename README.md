@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (156편)
+## 글 목록 (158편)
 
+- [올해 김장 시기 언제, 중부와 남해안은 한 달 가까이 차이](https://m.blog.naver.com/zova/224433718573) · 2026-10-07
+- [한일의료기 전기장판 싱글과 더블, 폭 40~50cm 차이](https://m.blog.naver.com/zova/224434420150) · 2026-10-07
 - [GS25 한정선 2탄, 예약 놓치면 10월 15일 매장 판매부터](https://m.blog.naver.com/zova/224432397619) · 2026-10-06
 - [독감 예방접종 무료 대상자, 9세 미만이면 2회인지부터](https://m.blog.naver.com/zova/224432453506) · 2026-10-06
 - [써모스 보온도시락 TKLH-1500, 조지루시와 갈리는 두 가지](https://m.blog.naver.com/zova/224433269672) · 2026-10-06
