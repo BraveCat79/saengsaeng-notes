@@ -5,9 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (162편)
+## 글 목록 (163편)
 
 - [황매산 억새축제 기간 안내가 둘, 10월 17일 개막이 맞나요](https://m.blog.naver.com/zova/224434723889) · 2026-10-08
+- [센타스타 이불, 알레르기 있는 집이라면 알러고프로텍트부터](https://m.blog.naver.com/zova/224435536058) · 2026-10-08
 - [올해 김장 시기 언제, 중부와 남해안은 한 달 가까이 차이](https://m.blog.naver.com/zova/224433718573) · 2026-10-07
 - [한일의료기 전기장판 싱글과 더블, 폭 40~50cm 차이](https://m.blog.naver.com/zova/224434420150) · 2026-10-07
 - [코스트코 꽃게 행사 날짜, 전단에서 찾는 4단계 순서](https://m.blog.naver.com/zova/224434422368) · 2026-10-07
