@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (172편)
+## 글 목록 (173편)
 
+- [보이러 전기요 1인용, 소파나 둘이 같이 써도 되나요](https://m.blog.naver.com/zova/224437320006) · 2026-10-10
 - [일월카본매트 싱글, 고를 때 갈리는 건 3가지](https://m.blog.naver.com/zova/224436444446) · 2026-10-09
 - [단양 구인사 단풍 시기, 10월 하순과 11월 초로 갈리는 이유](https://m.blog.naver.com/zova/224436447036) · 2026-10-09
 - [제천 시티패스 신청, 등록 후 3일째 오후 6시 넘기면 취소](https://m.blog.naver.com/zova/224436449776) · 2026-10-09
