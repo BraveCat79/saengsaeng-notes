@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (176편)
+## 글 목록 (178편)
 
+- [2026 구리 코스모스, 축제 끝나고 꽃단지만 가도 되나요](https://m.blog.naver.com/zova/224438170769) · 2026-10-11
+- [LG스타일러 5벌, 바지 칸 모델까지 가야 하나요](https://m.blog.naver.com/zova/224438172461) · 2026-10-11
 - [보이러 전기요 1인용, 소파나 둘이 같이 써도 되나요](https://m.blog.naver.com/zova/224437320006) · 2026-10-10
 - [서울대공원 레서판다 쌍둥이 공개, 출발 전 확인할 3가지](https://m.blog.naver.com/zova/224437324259) · 2026-10-10
 - [광명동굴 빛축제 드론쇼 매일 2회, 아이와 가는 하루 동선](https://m.blog.naver.com/zova/224437327205) · 2026-10-10
