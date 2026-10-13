@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (182편)
+## 글 목록 (183편)
 
+- [갤럭시탭 S12 플러스 와이파이 모델, 사기 전 셀룰러부터 확인](https://m.blog.naver.com/zova/224439337633) · 2026-10-12
 - [2026 구리 코스모스, 축제 끝나고 꽃단지만 가도 되나요](https://m.blog.naver.com/zova/224438170769) · 2026-10-11
 - [LG스타일러 5벌, 바지 칸 모델까지 가야 하나요](https://m.blog.naver.com/zova/224438172461) · 2026-10-11
 - [2026 마산 국화축제 9일 무료, 개막일 놓치면 못 보는 것](https://m.blog.naver.com/zova/224438175228) · 2026-10-11
