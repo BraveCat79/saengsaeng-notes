@@ -5,11 +5,13 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (192편)
+## 글 목록 (194편)
 
 - [청년미래적금 우대형과 일반형, 기여금 12%와 6%가 갈리는 기준](https://m.blog.naver.com/zova/224440883768) · 2026-10-14
 - [CAS체중계 BFA-S15 살 만한가, 건전지와 충전식의 차이](https://m.blog.naver.com/zova/224440884939) · 2026-10-14
+- [온누리상품권 사용처, 같은 시장도 권종 따라 갈립니다](https://m.blog.naver.com/zova/224441014638) · 2026-10-14
 - [실업급여 구직활동 고용24 제출, 1차와 2차가 갈리는 지점](https://m.blog.naver.com/zova/224441157977) · 2026-10-14
+- [국립중앙박물관 굿즈 뮷즈, 박물관 안 매장 3곳과 온라인몰](https://m.blog.naver.com/zova/224441800461) · 2026-10-14
 - [2026 광안리 불꽃축제 유료석이라면 배치도부터](https://m.blog.naver.com/zova/224439639007) · 2026-10-13
 - [청년주택드림 청약통장 전환, 부은 회차는 그대로 이어지나요](https://m.blog.naver.com/zova/224439778727) · 2026-10-13
 - [부여 낙화놀이 11월 7일, 10월 행사와 갈리는 지점](https://m.blog.naver.com/zova/224439958547) · 2026-10-13
