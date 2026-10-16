@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (198편)
+## 글 목록 (200편)
 
+- [신협 밥 체크카드 캐시백, 식사 시간 놓치면 기본만 남아요](https://m.blog.naver.com/zova/224441978388) · 2026-10-15
+- [에어메이드 가습기 7000, 침실·아기방에 둘 집이라면](https://m.blog.naver.com/zova/224442895876) · 2026-10-15
 - [청년미래적금 우대형과 일반형, 기여금 12%와 6%가 갈리는 기준](https://m.blog.naver.com/zova/224440883768) · 2026-10-14
 - [CAS체중계 BFA-S15 살 만한가, 건전지와 충전식의 차이](https://m.blog.naver.com/zova/224440884939) · 2026-10-14
 - [온누리상품권 사용처, 같은 시장도 권종 따라 갈립니다](https://m.blog.naver.com/zova/224441014638) · 2026-10-14
