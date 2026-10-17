@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (205편)
+## 글 목록 (206편)
 
+- [김신영 다리미 스프레이 대신 국산으로, 기능 4가지 정리](https://m.blog.naver.com/zova/224444017039) · 2026-10-16
 - [신협 밥 체크카드 캐시백, 식사 시간 놓치면 기본만 남아요](https://m.blog.naver.com/zova/224441978388) · 2026-10-15
 - [에어메이드 가습기 7000, 침실·아기방에 둘 집이라면](https://m.blog.naver.com/zova/224442895876) · 2026-10-15
 - [영주 부석사 단풍 시기, 첫 단풍과 절정은 열하루 차이](https://m.blog.naver.com/zova/224442898566) · 2026-10-15
