@@ -5,11 +5,12 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (213편)
+## 글 목록 (214편)
 
 - [2026년 10월 기준 전기요금 동결, 12월까지 요금 단가는 그대로](https://m.blog.naver.com/zova/224444542123) · 2026-10-17
 - [알고 보니 6월부터 같은 값, 11차 석유 최고가격도 동결](https://m.blog.naver.com/zova/224444545064) · 2026-10-17
 - [11월 15일까지 앱 동의 안 하면 상생소비복권 응모권 없어요](https://m.blog.naver.com/zova/224444597115) · 2026-10-17
+- [고용량 멀티탭 4구, 1,500W 가전 두 대에 16A도 빠듯한 이유](https://m.blog.naver.com/zova/224444875869) · 2026-10-17
 - [김신영 다리미 스프레이 대신 국산으로, 기능 4가지 정리](https://m.blog.naver.com/zova/224444017039) · 2026-10-16
 - [한일의료기 탄소매트, 침대용과 겸용에서 갈립니다](https://m.blog.naver.com/zova/224444019682) · 2026-10-16
 - [휴롬 착즙기 H410, H310과 갈리는 건 용량 1.8L·슬림형 분류](https://m.blog.naver.com/zova/224444022334) · 2026-10-16
