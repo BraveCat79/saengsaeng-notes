@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (220편)
+## 글 목록 (222편)
 
+- [필립스 스팀다리미 8500, 평점 4.8에도 걸리는 건 가격 하나](https://m.blog.naver.com/zova/224445711927) · 2026-10-18
+- [생각보다 깐깐한 부평구청 여권 신청 사진, 6개월 넘은 건 안 받아요](https://m.blog.naver.com/zova/224445812739) · 2026-10-18
 - [2026년 10월 기준 전기요금 동결, 12월까지 요금 단가는 그대로](https://m.blog.naver.com/zova/224444542123) · 2026-10-17
 - [알고 보니 6월부터 같은 값, 11차 석유 최고가격도 동결](https://m.blog.naver.com/zova/224444545064) · 2026-10-17
 - [11월 15일까지 앱 동의 안 하면 상생소비복권 응모권 없어요](https://m.blog.naver.com/zova/224444597115) · 2026-10-17
