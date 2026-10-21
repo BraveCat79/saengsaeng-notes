@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (238편)
+## 글 목록 (239편)
 
+- [맥세이프 그립톡 듀얼팝 맥핏, 카메라보다 낮아 '이것'이 사라진다](https://m.blog.naver.com/zova/224448334281) · 2026-10-21
 - [입장도 무대도 무료, 대구 떡볶이 페스티벌 라인업의 진짜 주인공](https://m.blog.naver.com/zova/224447337448) · 2026-10-20
 - [크라임씬 제로2 출연 5인 전원 복귀, 공개는 2027년으로 잡혔다](https://m.blog.naver.com/zova/224447504404) · 2026-10-20
 - [강릉 한돈페스타 금요일 퇴근 후 가면 놓친다, 17시 마감](https://m.blog.naver.com/zova/224447791108) · 2026-10-20
