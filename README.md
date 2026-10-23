@@ -5,8 +5,9 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (255편)
+## 글 목록 (256편)
 
+- [예산장터 삼국축제 22일 개막, 장날까지 보려면 며칠에 가야 하나](https://m.blog.naver.com/zova/224450742566) · 2026-10-23
 - [오늘의집 무빙패스 3만원은 공짜일까, 쿠폰 30만원의 진짜 조건](https://m.blog.naver.com/zova/224449567571) · 2026-10-22
 - [써모스 텀블러 500ml 아이 물병, 패킹이 닳으면 새로 사야 하나요](https://m.blog.naver.com/zova/224449595844) · 2026-10-22
 - [양산시청 여권 신청 방법, 시청에 꼭 두 번 가야 하나요](https://m.blog.naver.com/zova/224449651536) · 2026-10-22
