@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (281편)
+## 글 목록 (283편)
 
+- [14분기째 그대로인 전기요금, 한전 사채 한도가 흔드는 이유](https://m.blog.naver.com/zova/224453613291) · 2026-10-26
+- [장한별 전국노래자랑 첫 출연 무대, 박상철·전유진보다 뒤였던 순서](https://m.blog.naver.com/zova/224453681790) · 2026-10-26
 - [연 3.00% 동결인데, 한은 문서엔 '추가 인상'이 적혀 있었다](https://m.blog.naver.com/zova/224452665674) · 2026-10-25
 - [10월 25일 대형마트 휴무, 알고 보니 일요일에 여는 동네도 있다](https://m.blog.naver.com/zova/224452765701) · 2026-10-25
 - [데이트 신청을 모국어로? 나솔사계 글로벌 특집 29일 첫 선택](https://m.blog.naver.com/zova/224452816613) · 2026-10-25
