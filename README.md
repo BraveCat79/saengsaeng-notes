@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (289편)
+## 글 목록 (291편)
 
+- [밧드야 설거지통 9L, 큰 냄비 담그는 깊은 통 대신 써도 되나요](https://m.blog.naver.com/zova/224454761197) · 2026-10-27
+- [전유진 아디오스 무대엔 보헤미안 의상과 하모니카가 있었다](https://m.blog.naver.com/zova/224454901812) · 2026-10-27
 - [조지루시 가습기 1.8L, 약하게 틀면 물 한 번에 16시간 간다](https://m.blog.naver.com/zova/224453572602) · 2026-10-26
 - [14분기째 그대로인 전기요금, 한전 사채 한도가 흔드는 이유](https://m.blog.naver.com/zova/224453613291) · 2026-10-26
 - [홈앤아트 스팀청소기, 무선은 아니지만 코드가 7m로 늘었다](https://m.blog.naver.com/zova/224453614368) · 2026-10-26
