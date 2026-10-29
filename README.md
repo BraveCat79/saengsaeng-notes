@@ -5,8 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (310편)
+## 글 목록 (312편)
 
+- [운현궁 단풍 입장료 무료.. 대신 '이 요일'은 일찍 닫아요](https://m.blog.naver.com/zova/224457222347) · 2026-10-29
+- [한일 믹서기 대용량, 스텐 3.2L면 김장 양념까지 충분한가요](https://m.blog.naver.com/zova/224457391948) · 2026-10-29
 - ["10개면 거의 다 아냐?" 청룡영화상 호프가 빠진 다섯 칸](https://m.blog.naver.com/zova/224457398256) · 2026-10-29
 - [2026 MMA 티켓팅 1·2차 다 놓쳤다면, 아직 표를 구할 수 있나요](https://m.blog.naver.com/zova/224457424000) · 2026-10-29
 - [최수호가 일본 BS11 무대에서 다시 부른 '이 노래'](https://m.blog.naver.com/zova/224457425985) · 2026-10-29
