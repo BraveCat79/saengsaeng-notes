@@ -5,9 +5,10 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (327편)
+## 글 목록 (328편)
 
 - [알뜰폰 '평생 할인' 이름만 보고 가입하지 마세요](https://m.blog.naver.com/zova/224460789444) · 2026-11-01
+- [신일 온풍기 풀터치 27년형, 화장실에 둬도 되나요](https://m.blog.naver.com/zova/224461341570) · 2026-11-01
 - ['아이넥스 식기건조대 4.0?' 주문하면 5.0으로 나간다](https://m.blog.naver.com/zova/224459933821) · 2026-10-31
 - ["담요는 이제 없어?" 프랭크버거 진격의거인 2차는 굿즈 3종](https://m.blog.naver.com/zova/224459936950) · 2026-10-31
 - ["경로할인인 줄 알았는데.." 순천만국가정원 65세는 아예 무료](https://m.blog.naver.com/zova/224459941609) · 2026-10-31
