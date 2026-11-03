@@ -5,9 +5,11 @@
 - 블로그: https://m.blog.naver.com/zova
 - 글 목록 페이지: https://bravecat79.github.io/saengsaeng-notes/
 
-## 글 목록 (331편)
+## 글 목록 (333편)
 
 - ["단풍 보고 도토리묵까지" 뱀사골 단풍제 11월 7일 하루 열린다](https://m.blog.naver.com/zova/224462421731) · 2026-11-02
+- ["8월에 냈는데요?" 주민세 독촉장이 10월에 날아온 이유](https://m.blog.naver.com/zova/224462427853) · 2026-11-02
+- [산진라디오 WR-9 평점 4.79, 걸리는 건 창가 없는 자리](https://m.blog.naver.com/zova/224462577404) · 2026-11-02
 - [알뜰폰 '평생 할인' 이름만 보고 가입하지 마세요](https://m.blog.naver.com/zova/224460789444) · 2026-11-01
 - [신일 온풍기 풀터치 27년형, 화장실에 둬도 되나요](https://m.blog.naver.com/zova/224461341570) · 2026-11-01
 - [손택스 재산세 조회 대신 스마트위택스 3단계 확인 순서](https://m.blog.naver.com/zova/224461344665) · 2026-11-01
